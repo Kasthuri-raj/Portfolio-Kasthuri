@@ -172,7 +172,7 @@ span
     gap:10em;
     background: black;
 }
-#about-img img
+.about-img img
 {
     position: relative;
     width: 550px;
